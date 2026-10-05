@@ -1,4 +1,8 @@
-# README for Programming Assignment 1
+# HTTP Web Server & Caching Proxy (Python sockets)
+
+Two network servers written from scratch with Python's `socket` library for Stony Brook CSE 310 (Computer Networks): an HTTP web server that parses requests and returns files or 404s, and a caching web proxy that serves repeat requests from disk.
+
+**Concepts:** TCP sockets, HTTP request/response parsing, status codes, proxy caching.
 
  ## Program Descriptions 
 
